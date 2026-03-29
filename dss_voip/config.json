@@ -1,6 +1,6 @@
 {
   "name": "DSS VoIP Notifier",
-  "version": "4.1.0",
+  "version": "4.2.0",
   "slug": "dss_voip",
   "url": "https://github.com/sdesalve/hassio-addons/tree/master/dss_voip",
   "description": "VoIP Notifier for Home Assistant",
