@@ -1,7 +1,0 @@
-{
-  "name": "Haier hOn (patched)",
-  "render_readme": true,
-  "domains": ["hon"],
-  "country": ["ES"],
-  "homeassistant": "2025.1.0"
-}
